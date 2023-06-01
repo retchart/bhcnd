@@ -6,10 +6,7 @@
         <file>images/bhcnd_mini.png</file>
         <file>qml/About.qml</file>
         <file>qml/main.qml</file>
-        <file>qml/BHCND1DView.qml</file>
-        <file>qml/BHCND2DView.qml</file>
+        <file>qml/ChannelCountsView.qml</file>
         <file>qtquickcontrols2.conf</file>
-        <file>qml/DebugArea.qml</file>
-        <file>qml/BHCNDPHSView.qml</file>
     </qresource>
 </RCC>
